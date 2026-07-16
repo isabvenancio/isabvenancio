@@ -11,11 +11,7 @@
 * 🐍 Aprendendo cada vez mais Python
 * 📚 Sempre estudando novas tecnologias
 * 🌱 Evoluindo em Automação e Ciência de Dados
-<p align="left">
-  <img src="https://img.shields.io/badge/💻_Desenvolvimento_de_Software-0A66C2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/📊_Data_Science-FF7A00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/🤖_Automação-16A34A?style=for-the-badge">
-</p>
+
 ---
 
 ## 🚀 Stack
@@ -101,18 +97,19 @@
 
 ## 📈 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabvenancio\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabvenancio\&layout=compact\&theme=tokyonight)
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 ---
 
 ## 📫 Contato
 
-* LinkedIn: https://linkedin.com/in/SEU_USUARIO
+* LinkedIn: https://linkedin.com/in/isabella-barela-venâncio
 * Email: [seuemail@email.com](mailto:seuemail@email.com)
-
----
-
-> *"A melhor maneira de prever o futuro é criá-lo."*
-
