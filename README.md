@@ -96,22 +96,9 @@ Estudante de **Engenharia de Software** apaixonada por tecnologia, desenvolvimen
 
 ## 📊 Estatísticas
 
-<div align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isabvenancio&show_icons=true&theme=tokyonight"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=isabvenancio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabvenancio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=isabvenancio&theme=tokyonight&hide_border=true"/>
-
-</div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isabvenancio&layout=compact&theme=tokyonight"/>
 
 ---
 
