@@ -1,16 +1,49 @@
-## Hi there 👋
+📄 Core
+Gestão de Projetos de TI
+Desenvolvimento Backend
+Automação de Processos
+Análise e Processamento de Dados
+Machine Learning 
 
-<!--
-**isabvenancio/isabvenancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Linguagens de Programação
+Python
+Java
+JavaScript
+C
 
-Here are some ideas to get you started:
+🌐 Tecnologias e Ferramentas
+HTML (HTML5)
+CSS (CSS3)
+Tailwind CSS
+APIs REST
+FastAPI
+Jupyter Notebook
+Visual Studio Code 
+IntelliJ IDEA 
+Git
+GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Frameworks
+Flask
+Streamlit
+Tkinter
+FastAPI
+
+🛢️ Banco de Dados
+SQLite
+SQL
+
+📋 Gestão de Projetos
+Scrum
+Trello
+Levantamento de requisitos
+Documentação técnica
+monday
+ClickUp - Asana
+Figma
+Lovable
+Canva
+Microsoft Project
+Power BI
+Notion
+Trello
