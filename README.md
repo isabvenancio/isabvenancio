@@ -98,11 +98,18 @@ Estudante de **Engenharia de Software** apaixonada por tecnologia, desenvolvimen
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=isabvenancio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=isabvenancio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabvenancio&layout=compact&theme=tokyonight"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabvenancio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=isabvenancio&theme=tokyonight"/>
+</div>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=isabvenancio&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -111,11 +118,15 @@ Estudante de **Engenharia de Software** apaixonada por tecnologia, desenvolvimen
 ## 📫 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/isabella-barela-venâncio/">
+  <a href="https://www.linkedin.com/in/isabella-barela-venâncio/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="mailto:barelaisabella25@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://instagram.com/isabarela_v/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
