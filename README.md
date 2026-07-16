@@ -104,15 +104,9 @@ Estudante de **Engenharia de Software** apaixonada por tecnologia, desenvolvimen
 
 <img src="https://streak-stats.demolab.com?user=isabvenancio&theme=tokyonight"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isabvenancio&theme=tokyo-night"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=isabvenancio&theme=tokyonight&row=1&column=7"/>
-
 </div>
 
 ---
-
-## 📫 Contato
 
 ## 📫 Contato
 
