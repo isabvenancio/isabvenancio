@@ -94,21 +94,34 @@ Estudante de **Engenharia de Software** apaixonada por tecnologia, desenvolvimen
 
 ---
 
-## 📈 Estatísticas
+## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabvenancio\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabvenancio\&layout=compact\&theme=tokyonight)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=isabvenancio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabvenancio&layout=compact&theme=tokyonight"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-</p>
+<img src="https://streak-stats.demolab.com?user=isabvenancio&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isabvenancio&theme=tokyo-night"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=isabvenancio&theme=tokyonight&row=1&column=7"/>
+
+</div>
 
 ---
 
 ## 📫 Contato
 
-* LinkedIn: https://linkedin.com/in/isabella-barela-venâncio
-* Email: [seuemail@email.com](mailto:seuemail@email.com)
+## 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/isabella-barela-venâncio/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:barelaisabella25@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
