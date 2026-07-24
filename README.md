@@ -1,19 +1,22 @@
 # 👋 Olá, eu sou a Isabella Barela!
 
-Estudante de **Engenharia de Software** apaixonada por desenvolvimento de software e gestão de projetos. Atualmente atuo como **Estagiária de Gestão de Projetos de TI**, trabalhando com planejamento, documentação, acompanhamento de projetos e melhoria e automação de processos.
+🎓 Estudante de **Engenharia de Software** apaixonada por desenvolvimento de software, automação de processos e gestão de projetos.
+💼 Atualmente atuo como **Estagiária de Gestão de Projetos de TI**, trabalhando com planejamento, documentação, levantamento de requisitos, acompanhamento de projetos, melhoria de processos e automações.
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-* 🎓 Engenharia de Software
-* 🌱 Evoluindo em Automação e Ciência de Dados
+- 🎓 Estudante de Engenharia de Software
+- 💼 Estagiária de Gestão de Projetos de TI
+- 🤖 Apaixonada por Automação de Processos e Desenvolvimento Backend
+- 📊 Estudando Ciência de Dados, Machine Learning
 
 ---
 
-## 🚀 Stack
+# 🚀 Stack
 
-### 📄 Core
+## 📄 Core
 
 <p>
   <img src="https://img.shields.io/badge/📋_Gestão_de_Projetos_de_TI-4F46E5?style=for-the-badge">
@@ -25,7 +28,7 @@ Estudante de **Engenharia de Software** apaixonada por desenvolvimento de softwa
 
 ---
 
-### 💻 Linguagens de Programação
+## 💻 Linguagens de Programação
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -36,7 +39,7 @@ Estudante de **Engenharia de Software** apaixonada por desenvolvimento de softwa
 
 ---
 
-### 🌐 Tecnologias e Ferramentas
+## 🌐 Tecnologias e Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -52,7 +55,7 @@ Estudante de **Engenharia de Software** apaixonada por desenvolvimento de softwa
 
 ---
 
-### ⚙️ Frameworks
+## ⚙️ Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
@@ -63,16 +66,34 @@ Estudante de **Engenharia de Software** apaixonada por desenvolvimento de softwa
 
 ---
 
-### 🛢️ Banco de Dados
+## 🛢️ Banco de Dados
 
 <p>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/JSONB-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Row_Level_Security-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 ---
 
-### 📋 Gestão de Projetos
+## ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
+  <img src="https://img.shields.io/badge/Realtime-22C55E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+</p>
+
+---
+
+## 📋 Gestão de Projetos
 
 <p>
   <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white">
@@ -92,26 +113,38 @@ Estudante de **Engenharia de Software** apaixonada por desenvolvimento de softwa
 
 ---
 
-## 📊 Estatísticas
+# 📊 Estatísticas
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isabvenancio&show_icons=true&theme=tokyonight"/>
+<div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isabvenancio&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=isabvenancio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabvenancio&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isabvenancio&theme=tokyo-night"/>
+</p>
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/isabella-barela-venâncio/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<p align="center">
 
-  <a href="mailto:barelaisabella25@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/isabella-barela-venâncio/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-  <a href="https://instagram.com/isabarela_v/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+<a href="mailto:barelaisabella25@email.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://instagram.com/isabarela_v/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
 </p>
