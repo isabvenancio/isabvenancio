@@ -119,11 +119,13 @@
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=isabvenancio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabvenancio&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabvenancio&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=isabvenancio&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-<br>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=isabvenancio&theme=tokyo-night"/>
