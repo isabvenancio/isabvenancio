@@ -1,15 +1,15 @@
 # 👋 Olá, eu sou a Isabella Barela!
 
-🎓 Estudante de **Engenharia de Software** apaixonada por automação de processos e gestão de projetos.
-💼 Atualmente atuo como **Estagiária de Gestão de Projetos de TI**, trabalhando com planejamento, documentação, levantamento de requisitos, acompanhamento de projetos, melhoria de processos e automações.
+Estudante de **Engenharia de Software** apaixonada por automação de processos e gestão de projetos.
+Atualmente atuo como **Estagiária de Gestão de Projetos de TI**, trabalhando com planejamento, documentação, levantamento de requisitos, acompanhamento de projetos, melhoria de processos e automações.
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-- 🎓 Estudante de Engenharia de Software
-- 💼 Estagiária de Gestão de Projetos de TI
-- 📊 Estudando Ciência de Dados, Machine Learning e Automação de Processos
+- Estudante de Engenharia de Software
+- Estagiária de Gestão de Projetos de TI
+- Estudando Ciência de Dados, Machine Learning e Automação de Processos
 
 ---
 
