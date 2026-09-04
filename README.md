@@ -70,8 +70,6 @@ Atualmente atuo como **Estagiária de Gestão de Projetos de TI**, trabalhando c
 <p>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/JSONB-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Row_Level_Security-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 ---
@@ -81,13 +79,12 @@ Atualmente atuo como **Estagiária de Gestão de Projetos de TI**, trabalhando c
 <p>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
-  <img src="https://img.shields.io/badge/Realtime-22C55E?style=for-the-badge">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 ---
@@ -100,7 +97,6 @@ Atualmente atuo como **Estagiária de Gestão de Projetos de TI**, trabalhando c
   <img src="https://img.shields.io/badge/Documentação_Técnica-6B7280?style=for-the-badge">
   <img src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=mondaydotcom&logoColor=white">
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white">
-  <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
