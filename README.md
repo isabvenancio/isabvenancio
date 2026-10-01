@@ -13,6 +13,12 @@ Atualmente atuo como **Estagiária de Gestão de Projetos de TI**, trabalhando c
 
 ---
 
+## 💻 Portfólio
+
+- https://portfolio-one-weld-89.vercel.app/
+  
+---
+
 # 🚀 Stack
 
 ## 📄 Core
